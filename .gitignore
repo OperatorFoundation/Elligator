@@ -2,3 +2,6 @@
 /.build
 /Packages
 /*.xcodeproj
+*.xcworkspacedata
+*.xcuserstate
+.swiftpm/xcode/xcuserdata/mafalda.xcuserdatad/xcschemes/xcschememanagement.plist

@@ -1,12 +1,12 @@
 import XCTest
-@testable import ElligatorSwift
+@testable import Elligator
 
 class ElligatorSwiftTests: XCTestCase {
     func testExample() {
         // This is an example of a functional test case.
         // Use XCTAssert and related functions to verify your tests produce the correct
         // results.
-        XCTAssertEqual(ElligatorSwift().text, "Hello, World!")
+        //XCTAssertEqual(ElligatorSwift().text, "Hello, World!")
     }
 
 
